@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=Driver
+comment0.text=\r\n\ Makes\ use\ of\ all\ other\ classes\ in\ this\ package.\r\n\r\n\ @author\ Martin\ Mueller\r\n\ @version\ 03/14/2018\r\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment1.text=\r\n\ The\ main\ method\ is\ simply\ used\ here\ to\ call\ each\ individual\ method\ that\ \r\n\ corresponds\ to\ the\ instructions\ listed\ in\ number\ 9\ (organized\ by\ letter).\r\n
+comment2.params=
+comment2.target=Person[]\ partA()
+comment2.text=\r\n\ Creates\ an\ array\ of\ type\ Person\ and\ populates\ this\ array\ with\ various\ objects,\ providing\ appropriate\ \r\n\ values\ for\ any\ parameters\ not\ specified\ by\ the\ instructions\ but\ required\ by\ my\ implementation.\r\n\ \r\n\ @return\ \ an\ array\ of\ type\ Person\ populated\ with\ various\ people\r\n
+comment3.params=array
+comment3.target=void\ partB(Person[])
+comment3.text=\r\n\ Calls\ the\ toString()\ method\ in\ all\ of\ the\ objects\ in\ the\ Person\ array.\r\n\ \r\n\ @param\ \ array\ \ a\ Person\ array\r\n
+comment4.params=array
+comment4.target=void\ partC(Person[])
+comment4.text=\r\n\ Prints\ all\ relevant\ information\ for\ each\ student.\ \r\n\ It\ then\ calls\ the\ graduate\ method\ on\ each\ student,\ \r\n\ then\ prints\ out\ all\ the\ information\ again.\r\n\ Finally,\ it\ prints\ the\ salary\ of\ all\ student\ employees.\r\n\ \r\n\ @param\ \ array\ \ a\ person\ array\r\n
+comment5.params=array
+comment5.target=void\ partD(Person[])
+comment5.text=\r\n\ Prints\ out,\ \r\n\ 1.\ The\ salary\ of\ each\ employee\ \r\n\ 2.\ The\ credits\ they\ have\ taught\ (if\ applicable)\ \r\n\ 3.\ Their\ administrative\ postition\ (if\ applicable)\ \r\n\ \r\n
+numComments=6

@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=StrangeContainer
+comment1.params=
+comment1.target=StrangeContainer()
+comment2.params=
+comment2.target=java.lang.String\ toString()
+comment3.params=object
+comment3.target=void\ add(java.lang.Comparable)
+comment4.params=
+comment4.target=java.lang.Comparable\ delete()
+comment5.params=index
+comment5.target=java.lang.Comparable\ peek(int)
+comment6.params=
+comment6.target=int\ size()
+comment7.params=
+comment7.target=void\ sort()
+numComments=8

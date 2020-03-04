@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Staff
+comment0.text=\r\n\ Describes\ all\ the\ properties\ of\ a\ university\ staff\ member.\r\n\r\n\ @author\ Martin\ Mueller\r\n\ @version\ 03/14/2018\r\n
+comment1.params=firstName\ middleName\ lastName\ dateOfBirth\ gender\ address\ salary
+comment1.target=Staff(java.lang.String,\ java.lang.String,\ java.lang.String,\ java.lang.String,\ java.lang.String,\ Address,\ int)
+comment1.text=\r\n\ The\ constructor\ collects\ all\ information\ needed\ to\ make\ the\ staff\ member,\r\n\ then\ sets\ all\ instance\ variables\ accordingly.\r\n\ \r\n\ @param\ \ firstName\ \ \ \ the\ staff\ member's\ first\ name\r\n\ @param\ \ middleName\ \ \ the\ staff\ member's\ middle\ name\r\n\ @param\ \ lastName\ \ \ \ \ the\ staff\ member's\ last\ name\r\n\ @param\ \ dateOfBirth\ \ the\ staff\ member's\ date\ of\ birth\r\n\ @param\ \ gender\ \ \ \ \ \ \ the\ staff\ member's\ gender\r\n\ @param\ \ address\ \ \ \ \ \ the\ staff\ member's\ address\ (in\ the\ form\ of\ an\ Address\ object)\r\n\ @param\ \ salary\ \ \ \ \ \ \ the\ staff\ member's\ salary\r\n
+comment2.params=
+comment2.target=java.lang.String\ toString()
+comment2.text=\r\n\ If\ attempting\ to\ print\ an\ object,\r\n\ this\ method\ returns\ a\ String\ that\ prints\ instead.\r\n\ \r\n\ @return\ \ all\ relevant\ information\ about\ the\ staff\ member\r\n
+comment3.params=
+comment3.target=int\ salary()
+comment3.text=\r\n\ Returns\ the\ staff\ member's\ salary.\r\n\ \r\n\ @return\ \ the\ staff\ member's\ salary\r\n
+numComments=4

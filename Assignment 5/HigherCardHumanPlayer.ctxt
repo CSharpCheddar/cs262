@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.target=HigherCardHumanPlayer
+comment0.text=\r\n\ Defines\ a\ card\ player\ that\ plays\ the\ game\ Higher\ Card.\ \r\n\ A\ human\ user\ is\ able\ to\ control\ this\ type\ of\ player.\r\n\r\n\ @author\ Martin\ Mueller\r\n\ @version\ 05/07/2018\r\n
+comment1.params=name\ rounds
+comment1.target=HigherCardHumanPlayer(java.lang.String,\ int)
+comment2.params=
+comment2.target=int\ getRoundsWon()
+comment3.params=
+comment3.target=void\ updateRoundsWon()
+comment4.params=card
+comment4.target=void\ dealCard(Card)
+comment5.params=
+comment5.target=Card\ takeTurn()
+numComments=6

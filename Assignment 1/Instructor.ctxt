@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=Instructor
+comment0.text=\r\n\ Defines\ properties\ of\ a\ university\ instructor.\r\n\r\n\ @author\ Martin\ Mueller\r\n\ @version\ 03/14/2018\r\n
+comment1.params=
+comment1.target=int\ creditsTaught()
+comment1.text=\r\n\ Requires\ that\ all\ instructors\ keep\ track\ of\ the\ amount\ of\ credits\ they've\ taught.\r\n\ \r\n\ @return\ \ the\ number\ of\ credits\ the\ instructor\ taught\r\n
+numComments=2

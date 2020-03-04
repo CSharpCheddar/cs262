@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=SolidTester
+comment0.text=\r\n\ Tests\ all\ of\ the\ other\ classes\ in\ this\ package.\r\n\r\n\ @author\ Martin\ Mueller\r\n\ @version\ 02/13/2018\r\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+numComments=2

@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=RectangularCuboid
+comment0.text=\r\n\ Stores\ information\ about\ a\ rectangular\ cuboid.\r\n\r\n\ @author\ Martin\ Mueller\r\n\ @version\ 02/13/2018\r\n
+comment1.params=name\ length\ width\ height
+comment1.target=RectangularCuboid(java.lang.String,\ double,\ double,\ double)
+comment2.params=
+comment2.target=java.lang.String\ toString()
+comment3.params=
+comment3.target=double\ volume()
+numComments=4

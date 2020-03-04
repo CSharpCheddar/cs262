@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.target=CardPlayer
+comment0.text=\r\n\ Outlines\ the\ basic\ elements\ of\ a\ card\ player.\r\n\r\n\ @author\ Martin\ A.\ Mueller\r\n\ @version\ 04/17/2018\r\n
+comment1.params=name
+comment1.target=CardPlayer(java.lang.String)
+comment2.params=
+comment2.target=java.lang.String\ toString()
+comment3.params=
+comment3.target=Card\ takeTurn()
+comment4.params=card
+comment4.target=void\ dealCard(Card)
+numComments=5

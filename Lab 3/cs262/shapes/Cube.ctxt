@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.target=Cube
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ Cube\ here.\r\n\r\n\ @author\ Martin\ Mueller\r\n\ @version\ 02/13/2018\r\n
+comment1.params=length
+comment1.target=Cube(double)
+comment2.params=
+comment2.target=java.lang.String\ toString()
+numComments=3

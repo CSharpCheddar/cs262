@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=Card
+comment0.text=\r\n\ Class\ that\ models\ a\ playing\ card\r\n
+comment1.params=suit\ rank
+comment1.target=Card(Suit,\ int)
+comment2.params=
+comment2.target=int\ getRank()
+comment3.params=
+comment3.target=Suit\ getSuit()
+comment4.params=
+comment4.target=java.lang.String\ toString()
+comment5.params=c
+comment5.target=int\ compareTo(Card)
+comment6.params=o
+comment6.target=boolean\ equals(java.lang.Object)
+numComments=7

@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=Driver
+comment0.text=\r\n\ Creates\ a\ game\ of\ Crazy\ Eights\ against\ a\ human\ player\ and\ a\ simple\ AI.\r\n\r\n\ @author\ Martin\ Mueller\r\n\ @version\ 04/29/2018\r\n
+comment1.params=
+comment1.target=void\ main()
+numComments=2

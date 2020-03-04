@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=HigherCardPlayer
+comment0.text=\r\n\ Defines\ a\ CardPlayer\ who\ plays\ the\ game\ Higher\ Card.\r\n\r\n\ @author\ Martin\ A.\ Mueller\r\n\ @version\ 04/17/2018\r\n
+comment1.params=name\ rounds
+comment1.target=HigherCardPlayer(java.lang.String,\ int)
+comment2.params=
+comment2.target=void\ updateRoundsWon()
+comment3.params=
+comment3.target=int\ getRoundsWon()
+numComments=4

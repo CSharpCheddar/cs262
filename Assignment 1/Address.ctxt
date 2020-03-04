@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.target=Address
+comment0.text=\r\n\ Stores\ all\ information\ about\ a\ person's\ address.\r\n\r\n\ @author\ Martin\ Mueller\r\n\ @version\ 03/14/2018\r\n
+comment1.params=addressFirstLine\ city\ state\ zipcode
+comment1.target=Address(java.lang.String,\ java.lang.String,\ java.lang.String,\ int)
+comment1.text=\r\n\ The\ constructor\ collects\ all\ information\ needed\ for\ the\ address,\r\n\ then\ sets\ all\ instance\ variables\ accordingly.\r\n\ \r\n\ @param\ \ addressFirstLine\ \ the\ first\ line\ of\ an\ address\ (as\ it\ would\ appear\ on\ a\ letter)\r\n\ @param\ \ city\ \ \ \ \ \ \ \ \ \ \ \ \ \ the\ city\ in\ which\ the\ address\ is\ located\r\n\ @param\ \ state\ \ \ \ \ \ \ \ \ \ \ \ \ the\ state\ in\ which\ the\ address\ is\ located\r\n\ @param\ \ zipcode\ \ \ \ \ \ \ \ \ \ \ the\ zipcode\ in\ which\ the\ address\ is\ located\r\n
+comment2.params=
+comment2.target=java.lang.String\ toString()
+comment2.text=\r\n\ Returns\ the\ object\ as\ a\ string\ if\ printed.\r\n\ \r\n\ @return\ \ if\ the\ object\ is\ printed,\ returns\ relevant\ information\r\n
+comment3.params=
+comment3.target=java.lang.String\ getAddressFirstLine()
+comment3.text=\r\n\ Gets\ the\ first\ line\ of\ the\ address\ (as\ it\ would\ appear\ on\ a\ letter)\r\n\ \r\n\ @return\ \ the\ first\ line\ of\ the\ address\ (as\ it\ would\ appear\ on\ a\ letter)\r\n
+comment4.params=
+comment4.target=java.lang.String\ getCity()
+comment4.text=\r\n\ Gets\ the\ city\ in\ which\ the\ address\ is\ located\r\n\ \r\n\ @return\ \ the\ city\ in\ which\ the\ address\ is\ located\r\n
+comment5.params=
+comment5.target=java.lang.String\ getState()
+comment5.text=\r\n\ Gets\ the\ state\ in\ which\ the\ address\ is\ located\r\n\ \r\n\ @return\ \ the\ state\ in\ which\ the\ address\ is\ located\r\n
+comment6.params=
+comment6.target=int\ getZipcode()
+comment6.text=\r\n\ Gets\ the\ zipcode\ in\ which\ the\ address\ is\ located\r\n\ \r\n\ @return\ the\ zipcode\ in\ which\ the\ address\ is\ located\r\n
+numComments=7

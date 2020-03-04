@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.target=MyDate
+comment0.text=\r\n\ MyDate\ description\r\n\ @author\ Martin\r\n\ @version\ 01/31/2018\r\n
+comment1.params=day\ month\ year
+comment1.target=MyDate(int,\ int,\ int)
+comment2.params=year
+comment2.target=MyDate(int)
+comment3.params=
+comment3.target=int\ getDay()
+comment4.params=
+comment4.target=int\ getMonth()
+comment5.params=
+comment5.target=int\ getYear()
+comment6.params=
+comment6.target=void\ advance()
+comment7.params=o
+comment7.target=boolean\ equals(java.lang.Object)
+comment8.params=
+comment8.target=java.lang.String\ toString()
+comment9.params=args
+comment9.target=void\ main(java.lang.String[])
+numComments=10

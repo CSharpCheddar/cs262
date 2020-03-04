@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=Employee
+comment0.text=\r\n\ Assigns\ mandatory\ properties\ of\ a\ university\ employee.\r\n\r\n\ @author\ Martin\ Mueller\r\n\ @version\ 03/14/2018\r\n
+comment1.params=
+comment1.target=int\ salary()
+comment1.text=\r\n\ Forces\ all\ univeristy\ employees\ to\ have\ a\ salary.\r\n\ \r\n\ @return\ \ the\ salary\ of\ the\ employee\r\n
+numComments=2

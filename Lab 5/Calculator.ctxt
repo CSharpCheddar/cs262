@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=Calculator
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=input
+comment2.target=java.lang.String[]\ makeArray(java.lang.String)
+comment3.params=operand1\ operand2
+comment3.target=void\ checkOperands(java.lang.String,\ java.lang.String)
+comment4.params=operator
+comment4.target=void\ checkOperator(java.lang.String)
+comment5.params=array
+comment5.target=int\ getAnswer(java.lang.String[])
+comment6.params=array\ answer
+comment6.target=void\ printAnswerMessage(java.lang.String[],\ int)
+numComments=7

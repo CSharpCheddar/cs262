@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=FacultyAdministrator
+comment0.text=\r\n\ Outlines\ a\ university\ faculty\ member\ with\ an\ administrative\ position.\r\n\r\n\ @author\ Martin\ Mueller\r\n\ @version\ 03/14/2018\r\n
+comment1.params=firstName\ middleName\ lastName\ dateOfBirth\ gender\ address\ creditsTaught\ position\ salary
+comment1.target=FacultyAdministrator(java.lang.String,\ java.lang.String,\ java.lang.String,\ java.lang.String,\ java.lang.String,\ Address,\ int,\ java.lang.String,\ int)
+comment1.text=\r\n\ The\ constructor\ collects\ all\ information\ needed\ to\ make\ the\ faculty\ administrator,\r\n\ then\ sets\ all\ instance\ variables\ accordingly.\r\n\ \r\n\ @param\ \ firstName\ \ \ \ \ \ the\ faculty\ administrator's\ first\ name\r\n\ @param\ \ middleName\ \ \ \ \ the\ faculty\ administrator's\ middle\ name\r\n\ @param\ \ lastName\ \ \ \ \ \ \ the\ faculty\ administrator's\ last\ name\r\n\ @param\ \ dateOfBirth\ \ \ \ the\ faculty\ administrator's\ date\ of\ birth\r\n\ @param\ \ gender\ \ \ \ \ \ \ \ \ the\ faculty\ administrator's\ gender\r\n\ @param\ \ address\ \ \ \ \ \ \ \ the\ faculty\ administrator's\ address\ (in\ the\ form\ of\ an\ Address\ object)\r\n\ @param\ \ creditsTaught\ \ the\ amount\ of\ credit\ hours\ in\ classes\ the\ faculty\ administrator\ has\ taught\r\n\ @param\ \ position\ \ \ \ \ \ \ the\ administrative\ position\ the\ faculty\ administrator\ holds\r\n\ @param\ \ salary\ \ \ \ \ \ \ \ \ the\ salary\ of\ the\ faculty\ administrator\r\n
+comment2.params=
+comment2.target=java.lang.String\ toString()
+comment2.text=\r\n\ If\ attempting\ to\ print\ an\ object,\r\n\ this\ method\ returns\ a\ String\ that\ prints\ instead.\r\n\ \r\n\ @return\ \ all\ relevant\ information\ about\ the\ faculty\ administrator\r\n
+comment3.params=
+comment3.target=java.lang.String\ position()
+comment3.text=\r\n\ Gets\ the\ title\ of\ the\ faculty\ administrator's\ administrative\ position.\r\n\ \r\n\ @return\ \ the\ title\ of\ the\ faculty\ administrator's\ administrative\ position\r\n
+numComments=4

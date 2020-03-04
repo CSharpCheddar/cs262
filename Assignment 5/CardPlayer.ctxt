@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=CardPlayer
+comment1.params=name
+comment1.target=CardPlayer(java.lang.String)
+comment2.params=
+comment2.target=Card\ takeTurn()
+comment3.params=card
+comment3.target=void\ dealCard(Card)
+comment4.params=
+comment4.target=java.lang.String\ toString()
+numComments=5

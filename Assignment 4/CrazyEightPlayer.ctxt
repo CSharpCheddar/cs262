@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.target=CrazyEightPlayer
+comment0.text=\r\n\ Defines\ a\ player\ of\ the\ card\ game\ Crazy\ Eights.\r\n\r\n\ @author\ Martin\ Mueller\r\n\ @version\ 04/29/2018\r\n
+comment1.params=name\ handSize
+comment1.target=CrazyEightPlayer(java.lang.String,\ int)
+comment2.params=card
+comment2.target=void\ dealCard(Card)
+comment3.params=suit\ rank
+comment3.target=Card\ takeTurn(Suit,\ int)
+comment4.params=
+comment4.target=Card\ takeTurn()
+comment5.params=
+comment5.target=boolean\ isVictorious()
+numComments=6

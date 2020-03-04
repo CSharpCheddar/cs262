@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=GraduateStudentInstructor
+comment0.text=\r\n\ Describes\ a\ graduate\ student\ who\ is\ also\ a\ university\ instructor.\r\n\r\n\ @author\ Martin\ Mueller\r\n\ @version\ 03/14/2018\r\n
+comment1.params=firstName\ middleName\ lastName\ dateOfBirth\ gender\ address\ currentSemester\ creditsCompleted\ enrolledCredits\ graduationStatus\ phdStatus\ creditsTaught\ salary
+comment1.target=GraduateStudentInstructor(java.lang.String,\ java.lang.String,\ java.lang.String,\ java.lang.String,\ java.lang.String,\ Address,\ java.lang.String,\ int,\ int,\ boolean,\ boolean,\ int,\ int)
+comment1.text=\r\n\ The\ constructor\ collects\ all\ information\ needed\ to\ make\ the\ graduate\ student\ instructor,\r\n\ then\ sets\ all\ instance\ variables\ accordingly.\r\n\ \r\n\ @param\ \ firstName\ \ \ \ \ \ \ \ \ the\ graduate\ student's\ first\ name\r\n\ @param\ \ middleName\ \ \ \ \ \ \ \ the\ graduate\ student's\ middle\ name\r\n\ @param\ \ lastName\ \ \ \ \ \ \ \ \ \ the\ graduate\ student's\ last\ name\r\n\ @param\ \ dateOfBirth\ \ \ \ \ \ \ the\ graduate\ student's\ date\ of\ birth\r\n\ @param\ \ gender\ \ \ \ \ \ \ \ \ \ \ \ the\ graduate\ student's\ gender\r\n\ @param\ \ address\ \ \ \ \ \ \ \ \ \ \ the\ graduate\ student's\ address\ (in\ the\ form\ of\ an\ Address\ object)\r\n\ @param\ \ currentSemester\ \ \ the\ semester\ the\ graduate\ student\ is\ currently\ enrolled\ in\r\n\ @param\ \ creditsCompleted\ \ the\ amount\ of\ credits\ the\ graduate\ student\ has\ completed\ so\ far\r\n\ @param\ \ enrolledCredits\ \ \ the\ amount\ of\ credits\ the\ graduate\ student\ is\ currently\ taking\r\n\ @param\ \ graduationStatus\ \ tells\ whether\ or\ not\ the\ graduate\ student\ is\ graduated\r\n\ @param\ \ phdStatus\ \ \ \ \ \ \ \ \ tells\ whether\ or\ not\ the\ graduate\ student\ is\ whorking\ towards\ a\ PhD\r\n\ @param\ \ creditsTaught\ \ \ \ \ the\ amount\ of\ credit\ hours\ in\ classes\ the\ graduate\ student\ has\ taught\r\n\ @param\ \ salary\ \ \ \ \ \ \ \ \ \ \ \ the\ graduate\ student's\ salary\ as\ an\ instructor\r\n
+comment2.params=
+comment2.target=java.lang.String\ toString()
+comment2.text=\r\n\ If\ attempting\ to\ print\ an\ object,\r\n\ this\ method\ returns\ a\ String\ that\ prints\ instead.\r\n\ \r\n\ @return\ \ all\ relevant\ information\ about\ the\ graduate\ student\ instructor\r\n
+comment3.params=
+comment3.target=int\ creditsTaught()
+comment3.text=\r\n\ Gets\ how\ many\ total\ credit\ hours\ there\ were\ in\ classes\ the\ graduate\ student\ taught.\r\n\ \r\n\ @return\ \ the\ number\ of\ credits\ the\ graduate\ student\ taught\r\n
+comment4.params=
+comment4.target=int\ salary()
+comment4.text=\r\n\ Gets\ the\ salary\ of\ the\ graduate\ student.\r\n\ \r\n\ @return\ \ the\ salary\ of\ the\ graduate\ student\r\n
+numComments=5

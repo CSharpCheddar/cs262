@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=Administrator
+comment0.text=\r\n\ Defines\ properties\ of\ a\ university\ administrator.\r\n\r\n\ @author\ Martin\ Mueller\r\n\ @version\ 03/14/2018\r\n
+comment1.params=
+comment1.target=java.lang.String\ position()
+comment1.text=\r\n\ Requires\ each\ administrator\ to\ have\ a\ specified\ position.\r\n\ \r\n\ @return\ \ the\ position\ of\ the\ administrator\r\n
+numComments=2

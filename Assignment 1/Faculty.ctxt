@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=Faculty
+comment0.text=\r\n\ Defines\ all\ characteristics\ of\ a\ university\ faculty\ member.\r\n\r\n\ @author\ Martin\ Mueller\r\n\ @version\ 03/14/2018\r\n
+comment1.params=firstName\ middleName\ lastName\ dateOfBirth\ gender\ address\ creditsTaught\ salary
+comment1.target=Faculty(java.lang.String,\ java.lang.String,\ java.lang.String,\ java.lang.String,\ java.lang.String,\ Address,\ int,\ int)
+comment1.text=\r\n\ The\ constructor\ collects\ all\ information\ needed\ to\ make\ the\ faculty\ member,\r\n\ then\ sets\ all\ instance\ variables\ accordingly.\r\n\ \r\n\ @param\ \ firstName\ \ \ \ \ \ the\ faculty\ member's\ first\ name\r\n\ @param\ \ middleName\ \ \ \ \ the\ faculty\ member's\ middle\ name\r\n\ @param\ \ lastName\ \ \ \ \ \ \ the\ faculty\ member's\ last\ name\r\n\ @param\ \ dateOfBirth\ \ \ \ the\ faculty\ member's\ date\ of\ birth\r\n\ @param\ \ gender\ \ \ \ \ \ \ \ \ the\ faculty\ member's\ gender\r\n\ @param\ \ address\ \ \ \ \ \ \ \ the\ faculty\ member's\ address\ (in\ the\ form\ of\ an\ Address\ object)\r\n\ @param\ \ creditsTaught\ \ the\ amount\ of\ credit\ hours\ in\ classes\ the\ faculty\ member\ has\ taught\r\n\ @param\ \ salary\ \ \ \ \ \ \ \ \ the\ salary\ of\ the\ faculty\ member\r\n
+comment2.params=
+comment2.target=java.lang.String\ toString()
+comment2.text=\r\n\ If\ attempting\ to\ print\ an\ object,\r\n\ this\ method\ returns\ a\ String\ that\ prints\ instead.\r\n\ \r\n\ @return\ \ all\ relevant\ information\ about\ the\ faculty\ member\r\n
+comment3.params=
+comment3.target=int\ creditsTaught()
+comment3.text=\r\n\ Gets\ how\ many\ total\ credit\ hours\ there\ were\ in\ classes\ the\ faculty\ member\ taught.\r\n\ \r\n\ @return\ \ the\ number\ of\ credits\ the\ faculty\ member\ taught\r\n
+comment4.params=
+comment4.target=int\ salary()
+comment4.text=\r\n\ Gets\ the\ salary\ of\ the\ faculty\ member.\r\n\ \r\n\ @return\ \ the\ salary\ of\ the\ faculty\ member\r\n
+numComments=5

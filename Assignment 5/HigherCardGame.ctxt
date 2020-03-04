@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=HigherCardGame
+comment1.params=players\ rounds
+comment1.target=HigherCardGame(HigherCardPlayer[],\ int)
+comment2.params=
+comment2.target=void\ play()
+comment3.params=playedThisTurn
+comment3.target=int\ getRoundWinner(Card[])
+comment4.params=
+comment4.target=boolean\ isGameOver()
+comment5.params=
+comment5.target=java.lang.String\ getRoundWinner()
+comment6.params=
+comment6.target=java.lang.String\ getWinner()
+numComments=7

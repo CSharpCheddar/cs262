@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=CardException
+comment0.text=\r\n\ This\ is\ a\ parent\ class\ for\ all\ card\ game-related\ exceptions.\r\n\r\n\ @author\ Martin\ A.\ Mueller\r\n\ @version\ 04/17/2018\r\n
+comment1.params=message
+comment1.target=CardException(java.lang.String)
+numComments=2

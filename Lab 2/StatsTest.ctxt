@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=StatsTest
+comment0.text=\r\n\ Tests\ the\ Stats\ class.\r\n\r\n\ @author\ \ Martin\ Mueller\r\n\ @version\ 02/13/2018\r\n
+comment1.params=
+comment1.target=StatsTest()
+comment2.params=
+comment2.target=void\ minTest()
+comment3.params=
+comment3.target=void\ maxTest()
+numComments=4
